@@ -1,2 +1,2 @@
 # PrivacyPolicy
-My apple privacy policy
+My App privacy policy
